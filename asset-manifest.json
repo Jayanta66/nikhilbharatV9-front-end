@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imageUploadToDatabaseSpringBootReact-front-End/static/css/main.270a2aca.css",
+    "main.js": "/imageUploadToDatabaseSpringBootReact-front-End/static/js/main.ed51c22d.js",
+    "static/js/787.f612627d.chunk.js": "/imageUploadToDatabaseSpringBootReact-front-End/static/js/787.f612627d.chunk.js",
+    "index.html": "/imageUploadToDatabaseSpringBootReact-front-End/index.html",
+    "main.270a2aca.css.map": "/imageUploadToDatabaseSpringBootReact-front-End/static/css/main.270a2aca.css.map",
+    "main.ed51c22d.js.map": "/imageUploadToDatabaseSpringBootReact-front-End/static/js/main.ed51c22d.js.map",
+    "787.f612627d.chunk.js.map": "/imageUploadToDatabaseSpringBootReact-front-End/static/js/787.f612627d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270a2aca.css",
+    "static/js/main.ed51c22d.js"
+  ]
+}
